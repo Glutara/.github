@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <div >
-        <img height="200px" src="assets/Glutara.png" alt=""/>
+        <img height="150px" src="assets/Glutara.png" alt=""/>
     </div>
     <div>
             <h3><b>Glutara</b></h3>
@@ -156,7 +156,7 @@ Many miscellaneous backend and storage services abstracted and handled via **Goo
 | Firebase Storage         | Stores profile assets for the frontend application                                            |
 | Firebase Cloud Firestore | Main production database for all the main storage purposes                                    |
 
-### 4. AI/ML Platform
+### 3. AI/ML Platform
 
 Powered by TensorFlow's cutting-edge machine learning, Glutara extracts hidden patterns in your data, unlocking personalized insights and proactive health guidance.
 
