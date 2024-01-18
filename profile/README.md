@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <div >
-        <img height="200px" src="../assets/Glutara.png" alt=""/>
+        <img height="200px" src="assets/Glutara.png" alt=""/>
     </div>
     <div>
             <h3><b>Glutara</b></h3>
@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">Glutara</h1>
 
-![Glutara](../assets/Banner.png)
+![Glutara](assets/Banner.png)
 
 **Glutara: Empowering Diabetes Management**
 
@@ -33,7 +33,7 @@ Millions of individuals worldwide grapple with the relentless challenges of mana
 
 ## 💡 &nbsp;Solution Key Points
 
-![Solution Key Points](../assets/Features.png)
+![Solution Key Points](assets/Features.png)
 
 ### 1. Pain-Free Precision
 
@@ -52,7 +52,7 @@ You're never alone with Glutara. Our **vibrant community connects individuals**,
 Accessing better health shouldn't break the bank. Glutara champions affordability and inclusivity, making diabetes management a possibility for everyone, regardless of background. Experience the transformative power of technology, free from financial barriers, and unlock a world of endless possibilities towards a healthier future.
 
 <a href="https://raw.githubusercontent.com/Glutara/.github/main/assets/UCD.png">
-<img src="../assets/UCD.png" target="_blank" />
+<img src="assets/UCD.png" target="_blank" />
 </a>
 <br />
 
@@ -64,7 +64,7 @@ This user case diagram gives an overview of the features of Glutara.
 
 ### SDG 3: Good Health and Well-Being (Target: 3.4)
 
-![SDG3](../assets/SDG3.png)
+![SDG3](assets/SDG3.png)
 
 The inspiration for Glutara lies in the millions of lives touched by diabetes. We saw an unmet need and harnessed the power of innovation to create a solution that makes a real difference. This isn't just about technology; it's about empowering individuals to reclaim their health and live life to the fullest.
 1. **Reducing Premature Mortality**
@@ -74,7 +74,7 @@ Diabetes isn't just a personal burden; it's a global health challenge. Glutara 
 
 ### SDG 9: Industry, Innovation, and Infrastructure (Target: 9.5)
 
-![SDG9](../assets/SDG9.png)
+![SDG9](assets/SDG9.png)
 
 At the heart of Glutara lies a belief: Technology shouldn't be a barrier, but a bridge. We're passionate about making advanced solutions accessible and affordable, democratizing healthcare and improving the lives of millions.
 1. **Innovation that Empowers**
@@ -84,7 +84,7 @@ Ditch the needles, embrace freedom. Glutara's painless CGM technology is a game-
 
 ### SDG 11: Sustainable Cities and Communities (Target: 11.6)
 
-![SDG11](../assets/SDG11.png)
+![SDG11](assets/SDG11.png)
 
 We believe a healthy planet and healthy communities go hand-in-hand. Glutara was born from the desire to not only empower individuals but also contribute to a more sustainable future for all. We envision cities where technology fosters well-being and builds resilient communities.
 1. **Greener Footprint, Healthier Future**
@@ -96,31 +96,31 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 
 <div align="center">
 <kbd>
-<img src="../assets/icons/Flutter.png" height="60" />
+<img src="assets/icons/Flutter.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Dart.png" height="60" />
+<img src="assets/icons/Dart.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Firebase.png" height="60" />
+<img src="assets/icons/Firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Go.png" height="60" />
+<img src="assets/icons/Go.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Gin.png" height="60" />
+<img src="assets/icons/Gin.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/TensorFlow.png" height="60" />
+<img src="assets/icons/TensorFlow.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Maps.png" height="60" />
+<img src="assets/icons/Maps.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/Arduino.png" height="60" />
+<img src="assets/icons/Arduino.png" height="60" />
 </kbd>
 <kbd>
-<img src="../assets/icons/ESP32.png" height="60" />
+<img src="assets/icons/ESP32.png" height="60" />
 </kbd>
 </div>
 <div align="center">
@@ -130,7 +130,7 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 ## 🛠️ &nbsp;System Architecture
 
 <a href="https://raw.githubusercontent.com/Glutara/.github/main/assets/System.png">
-<img src="../assets/System.png" target="_blank" />
+<img src="assets/System.png" target="_blank" />
 </a>
 <br />
 
@@ -171,6 +171,6 @@ Detailed instructions on how to run the application can be found [here](https://
 
 ## 👥 &nbsp;Contributors
 
-| <a href="https://github.com/mikeleo03"><img width="100px" height="100px" src="../assets/picprof/Leon.png" alt=""/></a> | <a href="https://github.com/GoDillonAudris512"><img width="100px" height="100px" src="../assets/picprof/Dillon.png" alt=""/></a> | <a href="https://github.com/margarethaolivia"><img width="100px" height="100px" src="../assets/picprof/Olivia.png" alt=""/></a> | <a href="https://github.com/AustinPardosi"><img width="100px" height="100px" src="../assets/picprof/Austin.png" alt=""/></a> |
+| <a href="https://github.com/mikeleo03"><img width="100px" height="100px" src="assets/picprof/Leon.png" alt=""/></a> | <a href="https://github.com/GoDillonAudris512"><img width="100px" height="100px" src="assets/picprof/Dillon.png" alt=""/></a> | <a href="https://github.com/margarethaolivia"><img width="100px" height="100px" src="assets/picprof/Olivia.png" alt=""/></a> | <a href="https://github.com/AustinPardosi"><img width="100px" height="100px" src="assets/picprof/Austin.png" alt=""/></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <div align="center"><h3><b><a href="https://github.com/mikeleo03">Michael Leon Putra Widhi</a></b></h3><p>Hustler</p><p><i>Bandung Institute of Technology</i></p></div>                                                                               | <div align="center"><h3><b><a href="https://github.com/GoDillonAudris512">Go Dillon Audris</a></b></h3></a><p>Hacker</p><p><i>Bandung Institute of Technology</i></p></div>                                                                          | <div align="center"><h3><b><a href="https://github.com/margarethaolivia">Margaretha Olivia Haryono</a></b></h3></a><p>Hipster</p><p><i>Bandung Institute of Technology</i></p></div></a>                                                               | <div align="center"><h3><b><a href="https://github.com/AustinPardosi">Austin Gabriel Pardosi</a></b></h3></a><p>Hacker</p><p><i>Bandung Institute of Technology</i></p></div>                                                                            |
