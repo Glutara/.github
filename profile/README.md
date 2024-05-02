@@ -18,8 +18,6 @@
 Glutara unlocks the power of technology to transform diabetes care. We go beyond simple monitoring, offering personalized insights, proactive health recommendations, and seamless connectivity with healthcare providers. Whether you're navigating remote areas or seeking community support, Glutara empowers you to take control of your health, one empowered step at a time.
 
 ## Problem Statement
-
-<br/>
 <blockquote align='center'>
 <h3>“Indonesia ranked 5th in the number of people with diabetes in the world with a number reaching 19,47 million people.”
 
@@ -27,7 +25,6 @@ Glutara unlocks the power of technology to transform diabetes care. We go beyond
 
 </h3>
 </blockquote>
-<br/>
 
 Millions of individuals worldwide grapple with the relentless challenges of managing diabetes, a chronic condition that demands **consistent monitoring and care**. Despite the advancements in technology, the process remains burdensome, with **traditional finger-pricking glucose monitoring causing discomfort** and hindering regular monitoring. This issue is exacerbated for those leading busy lives, **leaving little time for necessary health measures**. The fear of potential health emergencies, particularly for individuals living alone, further compounds the need for a **more accessible and painless solution.**
 
@@ -149,7 +146,7 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 
 **Users** of Glutara will directly interact with the Presentation Layer, namely the Glutara wearable built with **Arduino & ESP32**, as well as the Glutara mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**. With Cloud Run's auto-scaling and load balancing capabilities, in the event of more traffic, our backend is able to seamlessly scale horizontally to meet the growing demands of the application. Due to the flexibility and versatility of Cloud Run, an external load balancer in the form of Google's **Cloud Load Balancing** could be tapped on to deploy our backend to multiple regions and further reduce latencies and downtime.
 
-**Click to get more information:**
+**Click to get more information:**<br>
 Glutara frontend mobile application: [Link](https://github.com/Glutara/glutara-mobile)<br>
 Glutara backend: [Link](https://github.com/Glutara/glutara-backend)<br>
 Glutara wearable hardware: [Link](https://github.com/Glutara/glutara-hardware)
@@ -174,14 +171,14 @@ Powered by TensorFlow's cutting-edge machine learning, Glutara extracts hidden p
 | MLKit     | QR generator and scanner for data transfer between patient and relation |
 | Gemini  | Using decriptive model to support food scan feature                                                 |
 
-**Click to get more information:**
+**Click to get more information:**<br>
 Glutara machine learning: [Link](https://github.com/Glutara/glutara-machine-learning)
 
 ### 4. Implementation Design
 
 We are making sure that our solution is not only feasible to make but also comfortable for users to deal with it, especially the hardware device. So we also go through dense design plans and implementation.
 
-**Click to get more information:**
+**Click to get more information:**<br>
 Glutara 3D design: [Link](https://github.com/Glutara/glutara-3d-design)
 
 # Getting Started
