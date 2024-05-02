@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">Glutara</h1>
 
-![Glutara](assets/Banner.png)
+![Glutara](https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F.github%2FPromotional%20Banner%20Glutara.png?alt=media&token=d67c2709-c00f-464a-94c0-7ffa91475049)
 
 **Glutara: Empowering Diabetes Management**
 
@@ -150,8 +150,8 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 **Users** of Glutara will directly interact with the Presentation Layer, namely the Glutara wearable built with **Arduino & ESP32**, as well as the Glutara mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**. With Cloud Run's auto-scaling and load balancing capabilities, in the event of more traffic, our backend is able to seamlessly scale horizontally to meet the growing demands of the application. Due to the flexibility and versatility of Cloud Run, an external load balancer in the form of Google's **Cloud Load Balancing** could be tapped on to deploy our backend to multiple regions and further reduce latencies and downtime.
 
 **Click to get more information:**
-Glutara frontend mobile application: [Link](https://github.com/Glutara/glutara-mobile)
-Glutara backend: [Link](https://github.com/Glutara/glutara-backend)
+Glutara frontend mobile application: [Link](https://github.com/Glutara/glutara-mobile)<br>
+Glutara backend: [Link](https://github.com/Glutara/glutara-backend)<br>
 Glutara wearable hardware: [Link](https://github.com/Glutara/glutara-hardware)
 
 
