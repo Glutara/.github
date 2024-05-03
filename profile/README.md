@@ -92,45 +92,88 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
 <div align="center">
+
+<a href="https://flutter.dev/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FFlutter.png?alt=media&token=1f460ae7-f790-4400-9d9b-fc96f34e11a2" height="60" />
 </kbd>
+</a>
+
+<a href="https://dart.dev/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FDart.png?alt=media&token=68dad83b-1358-4ef6-98b2-419fe4224f61" height="60" />
 </kbd>
-<kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FFirebase.png?alt=media&token=da3b3135-dec1-4f6c-b0db-0051541754b6" height="60" />
-</kbd>
+</a>
+
+<a href="https://go.dev/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FGo.png?alt=media&token=93e65685-5bfa-428d-a9e2-f3cecacbc004" height="60" />
 </kbd>
+</a>
+
+<a href="https://gin-gonic.com/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FGin.png?alt=media&token=bdd8b1d9-e6d4-477d-9d4f-0e7dd5a155d0" height="60" />
 </kbd>
-<kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FTensorFlow.png?alt=media&token=25493f37-e246-4a99-ba38-9fa04a286265" height="60" />
-</kbd>
+</a>
+
+<a href="https://mapsplatform.google.com/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FMaps.png?alt=media&token=5f01c487-3892-4d93-a3e6-dac1909b1e17" height="60" />
 </kbd>
+</a>
+
+<a href="https://cloud.google.com/">
 <kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FArduino.png?alt=media&token=534f1f06-02bc-42ef-a8c8-6bfbb612142f" height="60" />
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FGCP.png?alt=media&token=a2af827f-269c-463c-b3d6-567e20822902" height="60" />
 </kbd>
-<kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FESP32.png?alt=media&token=908b5047-2893-4785-bb5a-acb1d5aa7ab4" height="60" />
-</kbd>
+</a>
+
+<a href="https://www.docker.com/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FDocker.png?alt=media&token=3588896c-975f-496f-87d0-e7e1bce0d492" height="60" />
 </kbd>
+</a>
+
+<a href="https://firebase.google.com/">
+<kbd>
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FFirebase.png?alt=media&token=da3b3135-dec1-4f6c-b0db-0051541754b6" height="60" />
+</kbd>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<kbd>
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FTensorFlow.png?alt=media&token=25493f37-e246-4a99-ba38-9fa04a286265" height="60" />
+</kbd>
+</a>
+
+<a href="https://developers.google.com/ml-kit">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FMLKit.png?alt=media&token=e1fa8c3a-4cfa-4a5d-ad68-3bc29b7e0d21" height="60" />
 </kbd>
+</a>
+
+<a href="https://gemini.google.com/">
 <kbd>
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FGemini%20(1).png?alt=media&token=39c99afa-b82c-45f7-b59c-4df0ccecfe54" height="60" />
 </kbd>
+</a>
+
+<a href="https://www.arduino.cc/">
+<kbd>
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FArduino.png?alt=media&token=534f1f06-02bc-42ef-a8c8-6bfbb612142f" height="60" />
+</kbd>
+</a>
+
+<a href="https://www.espressif.com/en/products/socs/esp32">
+<kbd>
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FESP32.png?alt=media&token=908b5047-2893-4785-bb5a-acb1d5aa7ab4" height="60" />
+</kbd>
+</a>
 </div>
+
 <div align="center">
-<h4>Flutter | Dart | Firebase | Go | Gin | TensorFlow | Google Maps Platform | Arduino | ESP32 | Docker | MLKit | Gemini</h4>
+<h4>Flutter | Dart | Go | Gin | Google Maps Platform | Google Cloud Platform | Docker | Firebase | Tensorflow | MLKit | Gemini | Arduino | ESP32</h4>
 </div>
 
 ## 🛠️ &nbsp;System Architecture
