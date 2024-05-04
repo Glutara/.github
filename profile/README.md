@@ -11,22 +11,22 @@
 <br>
 <h1 align="center">Glutara</h1>
 
-![Glutara](https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F.github%2FPromotional%20Banner%20Glutara.png?alt=media&token=d67c2709-c00f-464a-94c0-7ffa91475049)
+![Glutara](https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F.github%2FPromotional%20Banner%20Glutara.png?alt=media&token=a4b74e12-ecb5-44dc-a566-241b67bb7e6c)
 
 **Glutara: Empowering Diabetes Management**
 
-Glutara unlocks the power of technology to transform diabetes care. We go beyond simple monitoring, offering personalized insights, proactive health recommendations, and seamless connectivity with healthcare providers. Whether you're navigating remote areas or seeking community support, Glutara empowers you to take control of your health, one empowered step at a time.
+Glutara is a comprehensive IoT system designed to revolutionize diabetes management.  It combines a non-invasive wearable Continuous Glucose Monitor (CGM) for real-time blood sugar tracking with intuitive data visualization for informed decision-making. Additionally, Glutara leverages AI technology to scan food and provide insightful nutritional information. This empowers users to make informed dietary choices that directly impact their glucose levels. Furthermore, Glutara fosters a supportive community network by enabling patients to connect with their loved ones through a secure QR code system, promoting mutual assistance and ensuring a safety net. By prioritizing affordability, Glutara strives to make this powerful solution accessible to individuals with diabetes from all economic backgrounds.
 
 ## Problem Statement
 <blockquote align='center'>
-<h3>“Indonesia ranked 5th in the number of people with diabetes in the world with a number reaching 19,47 million people.”
+<h3>“537 million adults (20-79 years) are living with diabetes - 1 in 10. This number is predicted to rise to 643 million by 2030 and 783 million by 2045”
 
 \- International Diabetes Federation (IDF), 2022
 
 </h3>
 </blockquote>
 
-Millions of individuals worldwide grapple with the relentless challenges of managing diabetes, a chronic condition that demands **consistent monitoring and care**. Despite the advancements in technology, the process remains burdensome, with **traditional finger-pricking glucose monitoring causing discomfort** and hindering regular monitoring. This issue is exacerbated for those leading busy lives, **leaving little time for necessary health measures**. The fear of potential health emergencies, particularly for individuals living alone, further compounds the need for a **more accessible and painless solution.**
+Millions of individuals worldwide grapple with the relentless challenges of managing diabetes, a chronic condition that demands **consistent monitoring and care**. Despite the advancements in technology, the process remains burdensome, with **traditional finger-pricking glucose monitoring causing discomfort** and hindering regular monitoring. This issue is exacerbated for those leading busy lives, **leaving little time for necessary health measures**. The fear of potential dangers of how **certain foods might impact their blood sugar levels** and other health emergencies, particularly for individuals living alone, further compounds the need for a **more accessible and painless solution.**
 
 ## 💡 &nbsp;Solution Key Points
 
@@ -44,12 +44,16 @@ Glutara puts **real-time data insights at your fingertips**. Visualize your gluc
 
 You're never alone with Glutara. Our **vibrant community connects individuals**, providing a safety net of mutual support and understanding, **especially for those navigating diabetes solo**. Share experiences, offer encouragement, and find solace in knowing you're not walking this path alone. Together, we build a **sense of belonging** and empower each other to thrive.
 
-### 4. Accessible Empowerment
+### 4. Incredible AI Power
 
-Accessing better health shouldn't break the bank. Glutara champions affordability and inclusivity, making diabetes management a possibility for everyone, regardless of background. Experience the transformative power of technology, free from financial barriers, and unlock a world of endless possibilities towards a healthier future.
+Confused by food labels?  Glutara's **super-smart AI food scanner** is here to banish food mysteries. Simply scan any food item, and **unlock a treasure trove of nutritional insights**.  Identify the food ingredients, understand impact on your glucose levels, and make informed dietary choices with confidence. Glutara's AI **becomes your personal dietary detective**, empowering you to navigate the food world with clarity and control.
+
+### 5. Accessible Empowerment
+
+Accessing better health shouldn't break the bank. Glutara champions **affordability and inclusivity**, making diabetes management a **possibility for everyone**, regardless of background. Experience the transformative power of technology, **free from financial barriers**, and unlock a world of endless possibilities towards a healthier future.
 
 <a href="https://raw.githubusercontent.com/Glutara/.github/main/assets/UCD.png">
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F.github%2FUCD.png?alt=media&token=52bc9137-841f-4792-bdd1-968c26123719" target="_blank" />
+<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F.github%2FUCD.png?alt=media&token=013085bb-62ea-4f7d-b739-5c4f016e33ce" target="_blank" />
 </a>
 <br />
 
@@ -225,7 +229,7 @@ Glutara machine learning: [Link](https://github.com/Glutara/glutara-machine-lear
 
 ### 4. Implementation Design
 
-We are making sure that our solution is not only feasible to make but also comfortable for users to deal with it, especially the hardware device. So we also go through dense design plans and implementation.
+We are making sure that our solution is not only feasible to make but also comfortable for users to deal with it, especially the hardware device. So we go through dense design plans and implementation to make sure our dreams come true.
 
 **Click to get more information:**<br>
 Glutara 3D design: [Link](https://github.com/Glutara/glutara-3d-design)
