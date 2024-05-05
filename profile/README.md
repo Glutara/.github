@@ -26,7 +26,7 @@ Glutara is a comprehensive IoT system designed to revolutionize diabetes managem
 </h3>
 </blockquote>
 
-Millions of individuals worldwide grapple with the relentless challenges of managing diabetes, a chronic condition that demands **consistent monitoring and care**. Despite the advancements in technology, the process remains burdensome, with **traditional finger-pricking glucose monitoring causing discomfort** and hindering regular monitoring. This issue is exacerbated for those leading busy lives, **leaving little time for necessary health measures**. The fear of potential dangers of how **certain foods might impact their blood sugar levels** and other health emergencies, particularly for individuals living alone, further compounds the need for a **more accessible and painless solution.**
+Millions of individuals worldwide are struggle with the relentless challenges of managing diabetes, a chronic condition that demands **consistent monitoring and care**. Despite the advancements in technology, the process remains burdensome, with **traditional finger-pricking glucose monitoring causing discomfort** and hindering regular monitoring. This issue is exacerbated for those leading busy lives, **leaving little time for necessary health measures**. The fear of potential dangers of how **certain foods might impact their blood sugar levels** and other health emergencies, particularly for individuals living alone, further compounds the need for a **more accessible and painless solution.**
 
 ## 💡 &nbsp;Solution Key Points
 
