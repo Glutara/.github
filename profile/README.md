@@ -175,15 +175,8 @@ Diabetes shouldn't isolate individuals, especially those living alone in urban e
 </kbd>
 </a>
 
-<a href="https://www.bluetooth.com/">
-<kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FBluetooth.png?alt=media&token=2634a992-eee1-44cf-bce7-13fe5f15e3ec" height="60" />
-</kbd>
-</a>
-</div>
-
 <div align="center">
-<h4>Flutter | Dart | Go | Gin | Google Maps Platform | Google Cloud Platform | Docker | Firebase | Tensorflow | MLKit | Gemini | Arduino | ESP32 | Bluetooth</h4>
+<h4>Flutter | Dart | Go | Gin | Google Maps Platform | Google Cloud Platform | Docker | Firebase | Tensorflow | MLKit | Gemini | Arduino | ESP32</h4>
 </div>
 
 ## 🛠️ &nbsp;System Architecture
