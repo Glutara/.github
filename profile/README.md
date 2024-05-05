@@ -21,7 +21,7 @@ Glutara is a comprehensive IoT system designed to revolutionize diabetes managem
 <blockquote align='center'>
 <h3>“537 million adults (20-79 years) are living with diabetes - 1 in 10. This number is predicted to rise to 643 million by 2030 and 783 million by 2045”
 
-\- International Diabetes Federation (IDF), 2022
+\- International Diabetes Federation (IDF), 2021
 
 </h3>
 </blockquote>
